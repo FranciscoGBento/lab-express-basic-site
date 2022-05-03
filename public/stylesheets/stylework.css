@@ -1,0 +1,59 @@
+body {
+    background-image: url('../images/campeoeseuropeus.jpg');
+    background-size: 100%;
+}
+
+
+
+.navbar {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.benficaname {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color: white;
+    padding-top: 26px;
+}
+
+.linkslist {
+    list-style: none;
+    font-size: 32px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding-top: 26px;
+    
+}
+
+li {
+    padding: 5px;
+}
+
+.benficalogo {
+    width: 150px;
+    height: 100px;
+    padding-top: 25px;
+    
+}
+
+.trophies {
+    background-color: white;
+    margin-top: 100px;
+    margin-right: 300px;
+    margin-left: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+th {
+    padding: 20px;
+}
+
+td {
+    padding: 10px;
+}
+

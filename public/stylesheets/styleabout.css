@@ -1,0 +1,57 @@
+body {
+    background-image: url('../images/estadioluz.jpg');
+    background-size: 100%;
+}
+
+.story {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* background-color: white; */
+    /* margin-right:  900px; */
+}
+
+.bigdiv {
+    margin: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.eusebio {
+    width: 300px;
+    height: 350px;
+}
+
+.navbar {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.benficaname {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color: white;
+    padding-top: 26px;
+}
+
+.linkslist {
+    list-style: none;
+    font-size: 32px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding-top: 26px;
+    
+}
+
+li {
+    padding: 5px;
+}
+
+.benficalogo {
+    width: 150px;
+    height: 100px;
+    padding-top: 25px;
+    
+}

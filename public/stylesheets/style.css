@@ -1,0 +1,66 @@
+.navbar {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.benficaname {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color: white;
+    padding-top: 32px;
+}
+
+.linkslist {
+    list-style: none;
+    font-size: 32px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding-top: 32px;
+    
+}
+
+li {
+    padding: 5px;
+}
+
+.benficalogo {
+    width: 350px;
+    height: 200px;
+    
+}
+
+.benficalogomatch {
+    width: 350px;
+    height: 200px;
+    padding-top: 250px;
+}
+
+.realmadridlogo {
+    width: 350px;
+    height: 200px;
+    padding-top: 250px;
+}
+
+.champs {
+    
+    background-image: url('../images/champions.jpg');
+    background-size: 100%;
+    min-height: 630px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.matchinfo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    padding-top: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
